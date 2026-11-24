@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795520448164,
+      "tag": "0000_drone_videos",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795520465157,
+      "tag": "0001_footage_read",
+      "breakpoints": true
+    }
+  ]
+}
